@@ -1,0 +1,288 @@
+body{
+font-family: 'Quicksand', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+/* start of my header section*/
+.home-page{
+    
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    margin-top: 0%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.gap-15{
+    gap: 15px;
+}
+.gap-10{
+    gap: 10px;
+}
+.heder{
+    margin-top: 20px;
+    display: inline-block;
+    display: block;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.gap-20{
+    gap: 20px;
+}
+.hero-section{
+    width: 100%;
+    background-color:#1F2937 ;
+    height: 500px;
+}
+.logo{
+    width: 25%;
+    margin-left: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+.logo a{
+    font-size: 23px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+.logo a:hover{
+    color: #3882f6;
+}
+
+.home-link{
+    width: 70%;
+    display: flex;
+    justify-content: flex-end;
+    margin-left:0%;
+}
+.home-link a{
+   font-size: 23px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+.home-link a:hover{
+    color: #3882f6;
+}
+/*end of header section*/
+
+
+/*start of header hero section*/
+.hero{
+    margin-top: 20px;
+    display: inline-block;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text-hero h4{
+    color: white;
+    font-size: 40px;
+}
+.heroo p{
+    color: rgb(221, 216, 216);
+    margin-top: 5px;
+}
+.heroo h4{
+    margin-bottom: 10px;
+}
+.image{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    margin-left:0%;
+    
+}
+.image img{
+    width: 430px;
+    height: 430px;
+}
+.button{
+    background-color: #3882f6;
+    width: 100px;
+    height: 35px;
+    color: white;
+    border-color: transparent;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.button:hover{
+    color: black;
+    background-color: white;
+}
+
+/*end of header hero section*/
+
+
+/*start container tw0 hero section*/
+
+.containera{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.sectiontwo{
+    width: 100%;
+    background-color:#ffffff ;
+    height: 500px;
+}
+.random{
+    justify-content: center;
+    align-items: center;
+}
+.random h4{
+    font-size: 36px;
+    color: #1F2937;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.random .imog img{
+    display: flex;
+    width: 160px;
+    height: 160px;
+    border:3px solid #3882f6;
+    border-radius: 10px;
+    justify-content: center;
+    display: inline-block;
+}
+.wap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imog p{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgb(63, 61, 61);
+    font-weight: 300;
+}
+/*end of container2  section*/
+
+
+
+/*end of container2  section*/
+.containeraa{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.sectiontwoo{
+    width: 100%;
+    background-color:#d6d1d1 ;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    align-items: center;;
+}
+.quot{
+    padding: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.sectiontwoo p{
+    text-align: center;
+    color: rgb(63, 62, 62);
+}
+.sectiontwoo h4{
+    justify-content: flex-end;
+    display: flex;
+    margin-right: 200px;
+    color: rgb(39, 38, 38);
+}
+
+/*end of container2  section*/
+
+
+/*start of container2  section*/
+.containera2{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.sectiontwoo1{
+    width: 100%;
+    background-color:#ffffff ;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+.change{
+    padding: 10px;
+    background-color: #3882f6;
+    height: 100px;
+    width: 80%;
+    border-radius: 8px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+}
+.change .text-side{
+    width: 80%;
+    margin-left: 70px;
+}
+.change .button-side{
+    width: 15%;
+}
+.change .text-side h4{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 0%;
+}
+.change .text-side p{
+    margin-top: 0%;
+    color: white;
+    padding-right: 30px;
+    margin-right: 50px;
+    font-size: 15px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+.button2{
+    background-color: transparent;
+    border: 2.4px solid #d6d1d1;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.button2:hover{
+    background-color: #ffffff;
+    border: 2.4px solid #214e96;
+    color: #3882f6;
+}
+/*end of container2  section*/
+
+
+/*end of container2  section*/
+.containera3{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.sectiontwoo2{
+    width: 100%;
+    background-color:#1F2937 ;
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+   
+}
+.footer h4{
+ font-weight: 300;
+ color: white;
+}
+/*end of container2  section*/
